@@ -1,4 +1,4 @@
 Search Github users, with info charts about repositories(most used language, most starred repo)
 Built in React, with auth0 and fusioncharts
 
-Hosted on netlify : 
+Hosted on netlify : https://searchgithubusersreact.netlify.app/
